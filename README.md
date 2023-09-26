@@ -1,0 +1,2 @@
+# jittor-HunShuiMoYuZhenDeBuDui-JittorWarmUpChallenge
+本项目为第三届计图人工智能挑战赛热身赛手写数字生成的仓库
